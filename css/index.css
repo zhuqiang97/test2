@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body,
+html {
+    background-color: rgb(245, 245, 245);
+}
+.wrapper {
+    width: 800px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px rgba(85, 85, 85, 0.4);
+    margin-top: 50px;
+}
+.wrapper img {
+    width: 100%;
+}
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
